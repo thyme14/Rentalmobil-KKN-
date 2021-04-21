@@ -10,7 +10,7 @@ class CarsOverviewScreen extends StatelessWidget {
       appBar: AppBar(
         centerTitle: true,
         elevation: 0,
-        title: Text('Harapan Rental', style: SubHeading),
+        title: Text('Harapan Rental(KKN)', style: SubHeading),
         leading: Image.asset('assets/iconatas.png'),
       ),
       body: ListView(
