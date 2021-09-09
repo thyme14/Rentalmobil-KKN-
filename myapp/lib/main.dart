@@ -15,10 +15,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
+      debugShowCheckedModeBanner: false,fghffghfgh
       title: 'Harapan Rental(KKN)',
       theme: ThemeData(primaryColor: Colors.white, accentColor: Colors.purple),
-      home: CarsOverviewScreen(),klhuio
+      home: CarsOverviewScreen()
     );
   }
 }
