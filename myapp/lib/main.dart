@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Harapan Rental(KKN)',
+        title: 'Harapan Rental(miftah)',
         theme:
             ThemeData(primaryColor: Colors.white, accentColor: Colors.purple),
         home: CarsOverviewScreen());
